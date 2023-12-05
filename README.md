@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Clients can use the website to see what the agency offering for their marketting needs.
+Clients can use the website to see what the agency is offering for their marketting needs.
 
 ## Credits
 
